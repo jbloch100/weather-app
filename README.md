@@ -9,11 +9,11 @@ A simple weather app that fetches real-time weather data using the **OpenWeather
 ![Example 2](screenshots/image-2.png)
 
 ## :rocket: Features
-    ✅ Users can enter a city name to get **real-time weather data**.  
-    ✅ Displays **temperature, weather conditions, and an icon**.  
-    ✅ Uses the **OpenWeatherMap API** to fetch data.  
-    ✅ **Responsive design** (mobile-friendly).  
-    ✅ **Express.js backend** to handle API requests securely.   
+✅ Users can enter a city name to get **real-time weather data**.  
+✅ Displays **temperature, weather conditions, and an icon**.  
+✅ Uses the **OpenWeatherMap API** to fetch data.  
+✅ **Responsive design** (mobile-friendly).  
+✅ **Express.js backend** to handle API requests securely.   
 
 ## 🛠 Tech Stack
 * **Frontend:** HTML, CSS, JavaScript  
