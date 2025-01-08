@@ -72,5 +72,10 @@ Visit:
 2. Click the **"Get Weather"** button.  
 3. View the **temperature, weather description, and an icon**.
 
+## 🌍 API Used
+
+This app fetches weather data from the [OpenWeatherMap API](https://openweathermap.org/api).  
+Make sure to register and get a free API key.
+
 ## 🛡 .gitignore
 
