@@ -56,3 +56,13 @@ npm install
 ```plaintext
 OPENWEATHER_API_KEY=your_api_key_here
 ```
+
+### 4️⃣ Start the Server
+```plaintext
+npm run dev
+```
+
+### 5️⃣ Open in Browser
+
+Visit:  
+👉 **http://localhost:5000**
