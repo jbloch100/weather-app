@@ -4,6 +4,6 @@ A simple weather app that fetches real-time weather data using the **OpenWeather
 
 ## 📸 Screenshot
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![Weather App Screenshot](screenshots/image.png)
+![Example 1](screenshots/image-1.png)
+![Example 2](screenshots/image-2.png)
