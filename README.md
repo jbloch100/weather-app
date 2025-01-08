@@ -8,4 +8,5 @@ A simple weather app that fetches real-time weather data using the **OpenWeather
 ![Example 1](screenshots/image-1.png)
 ![Example 2](screenshots/image-2.png)
 
-:rocket:
+## :rocket: Features
+✅ ✔
