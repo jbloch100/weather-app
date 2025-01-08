@@ -9,4 +9,4 @@ A simple weather app that fetches real-time weather data using the **OpenWeather
 ![Example 2](screenshots/image-2.png)
 
 ## :rocket: Features
-✅ ✔
+✅ Users can enter a city name to get **real-time weather data**. 
