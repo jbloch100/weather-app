@@ -65,4 +65,4 @@ npm run dev
 ### 5️⃣ Open in Browser
 
 Visit:  
-👉 **http://localhost:5000**
+👉**http://localhost:5000**
