@@ -17,4 +17,7 @@ A simple weather app that fetches real-time weather data using the **OpenWeather
 
 ## 🛠 Tech Stack
 * **Frontend:** HTML, CSS, JavaScript  
-* **Backend:** Node.js, Express.js
+* **Backend:** Node.js, Express.js  
+* **API:** OpenWeatherMap API
+* **Tools:** Fetch API (AJAX), Nodemon, Axios  
+
