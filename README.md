@@ -48,3 +48,11 @@ cd weather-app
 ```plaintext
 npm install
 ```
+
+### 3️⃣ Set Up Environment Variables
+1. Create a .env file in the root folder.  
+2. Add your **OpenWeather API Key**:  
+
+```plaintext
+OPENWEATHER_API_KEY=your_api_key_here
+```
