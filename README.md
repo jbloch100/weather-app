@@ -35,3 +35,7 @@ weather-app
 ├── README.md
 └── .gitignore
 ```
+
+## 📖 How to Run the Project
+
+### 1️⃣ Clone the Repository
