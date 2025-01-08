@@ -21,3 +21,17 @@ A simple weather app that fetches real-time weather data using the **OpenWeather
 * **API:** OpenWeatherMap API
 * **Tools:** Fetch API (AJAX), Nodemon, Axios  
 
+## 📁 Project Structure
+
+```plaintext
+weather-app
+├── public/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+├── server.js
+├── .env
+├── package.json
+├── README.md
+└── .gitignore
+```
