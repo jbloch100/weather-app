@@ -43,3 +43,8 @@ weather-app
 git clone https://github.com/jbloch100/weather-app.git
 cd weather-app
 ```
+
+### 2️⃣ Install Dependencies
+```plaintext
+npm install
+```
