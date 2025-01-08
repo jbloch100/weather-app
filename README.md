@@ -71,3 +71,6 @@ Visit:
 1. Enter a **city name** in the input field.  
 2. Click the **"Get Weather"** button.  
 3. View the **temperature, weather description, and an icon**.
+
+## 🛡 .gitignore
+
