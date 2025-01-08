@@ -1,3 +1,1 @@
-# weather-app
-
-📌
+📌 Weather App
