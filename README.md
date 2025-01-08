@@ -39,3 +39,7 @@ weather-app
 ## 📖 How to Run the Project
 
 ### 1️⃣ Clone the Repository
+```plaintext
+git clone https://github.com/jbloch100/weather-app.git
+cd weather-app
+```
