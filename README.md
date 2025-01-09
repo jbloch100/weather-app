@@ -85,3 +85,15 @@ To protect sensitive information, this project includes a .gitignore file that *
 * .vscode/  
 * logs/  
 * Other necessary files  
+
+## 📜 License
+
+This project is **MIT Licensed** - free to use and modify.
+
+## 🙌 Contributing
+Contributions are welcome! Feel free to **fork** this repository and submit a **pull request**.
+
+## ⭐ Acknowledgements
+* **OpenWeather API** for weather data  
+* **Nodemon** for automatic server restarts  
+* **Express.js** for backend support
