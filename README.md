@@ -79,3 +79,9 @@ Make sure to register and get a free API key.
 
 ## 🛡 .gitignore
 
+To protect sensitive information, this project includes a .gitignore file that **excludes**:
+* node_modules/  
+* .env (API keys)  
+* .vscode/  
+* logs/  
+* Other necessary files  
