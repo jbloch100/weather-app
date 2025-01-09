@@ -98,7 +98,7 @@ Contributions are welcome! Feel free to **fork** this repository and submit a **
 * **Nodemon** for automatic server restarts  
 * **Express.js** for backend support
 
-🔗 **Connect with Me**
+### 🔗 Connect with Me
 - **GitHub**: [jbloch100](https://github.com/jbloch100)
 - **LinkedIn**: [jonathan-bloch-1a728b28a](https://www.linkedin.com/in/jonathan-bloch-1a728b28a/)
 
