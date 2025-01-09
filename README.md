@@ -34,7 +34,6 @@ weather-app
 │   ├── image-2.png
 │   └── image.png
 ├── server.js
-├── .env
 ├── package.json
 ├── README.md
 └── .gitignore
