@@ -29,6 +29,10 @@ weather-app
 │   ├── index.html
 │   ├── styles.css
 │   └── script.js
+├── screenshots/
+│   ├── image-1.png
+│   ├── image-2.png
+│   └── image.png
 ├── server.js
 ├── .env
 ├── package.json
